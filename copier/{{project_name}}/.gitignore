@@ -1,2 +1,10 @@
-# This is just for git to include the folder in the repo.
-# it can be removed if you add files to the folder.
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
